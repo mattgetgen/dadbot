@@ -14,3 +14,6 @@ create:
 extract:
 	tar $(EXTRACT) images.tar.gz
 
+clean:
+	-rm -f images/*
+
