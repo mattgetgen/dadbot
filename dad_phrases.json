@@ -1,0 +1,65 @@
+{
+    "keywords": [
+        "joke",
+        "im",
+        "thats",
+        "hello",
+        "goodbye",
+        "hey",
+        "money",
+        "can",
+        "why"
+    ],
+    
+    "hello": "Hello, I am Dad.",
+
+    "goodbye": "Goodnight, sleep tight, don't let the bed bugs bite.",
+
+    "speak": "Go ahead, say something.",
+
+    "im": [
+        "Hey",
+        ", I'm Dad!"
+    ],
+
+    "thats": "No, you're",
+
+    "hey": "Hay is for horses.",
+
+    "money": "Money doesn't grow on trees.",
+
+    "joke": [
+        "Why does the bagel hate doing yoga? It can never find its center.",
+        "I had a joke about paper, but it was tearable.",
+        "Why doesn't Jesus wear jewelry? He breaks every chain!",
+        "How does Jesus make tea? Hebrews it!",
+        "What is Jesus' favorite exercise? Cross fit!",
+        "Jesus drove a Honda, but never talked about it. For I do not speak of my own Accord.",
+        "What was Jesus' favorite type of ham? Bethle-ham.",
+        "Doin ya mom."
+    ],
+    
+    "can": [
+        "Go ask your mother.",
+        "Don't tell your mother.",
+        "I don't know, can you?"
+    ],
+
+    "why": [
+        "Because I said so.",
+        "It builds character."
+    ],
+
+    "random": [
+        "They don't make them like they used to.",
+        "Line up in alphabetical order according to height.",
+        "It takes a squad.",
+        "Don't make me stop this car!",
+        "Has anyone seen my glasses?",
+        "Act your age not your shoe size.",
+        "Lets blow this popsicle stand.",
+        "Do what I say, not what I do.",
+        "There's always money in the banana stand!",
+        "Good grief."
+    ]
+}
