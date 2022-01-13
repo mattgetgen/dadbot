@@ -3,6 +3,7 @@
 # Created by Matthew Getgen
 #   on 10-09-2021
 
+# This program
 import sys                          # for cl arguments
 from PIL import Image               # for opening images (from PIL package)
 import os                           # for system functions
@@ -13,8 +14,6 @@ import json                         # for json files :)
 # heavy lifters
 import speech_recognition as sr     # for speech recognition!
 import pyttsx3                      # for speech to text!
-
-
 
 
 def clearScreen():
